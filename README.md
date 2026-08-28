@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/hrnozdm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;TypeScript+%7C+React+%7C+Node.js;NestJS+%7C+GraphQL+%7C+MongoDB+%7C+PostgreSQL;Building+ERP+%26+E-commerce+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=560&lines=Full+Stack+Engineer;TypeScript+%7C+Node.js+%7C+NestJS+%7C+React;.NET+%7C+Spring+Boot+%7C+GraphQL;Building+Hospital+ERP+%26+E-commerce+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -16,23 +16,29 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="" />
 
-👋 Hi, I'm Harun!
+🚀 About Me
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" alt="Coding animation" />
-
-> "Talk is cheap. Show me the code." — Linus Torvalds
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="340" alt="Coding animation" />
 
 I'm a Full Stack Engineer specializing in building scalable backend architectures, microservices and modern web applications.
 
-🏥 Currently working as a Full Stack Engineer at ELEGANT (Elithair), building high-traffic Hospital ERP systems for Elit Hair & Elit Klinik
-🎓 Graduated from Kırklareli University with a degree in Software Engineering (2024)
-💡 I specialize in TypeScript, Node.js, NestJS and React ecosystems, focusing on clean architecture and best practices
-🛒 Developed e-commerce integrations and REST / GraphQL / SOAP APIs, plus mobile apps with React Native
-🔬 Took part in TÜBİTAK-supported projects and entrepreneurship ventures
-🗄️ Experienced in database management with MongoDB, PostgreSQL, MySQL and MSSQL
-📍 Based in İstanbul, Türkiye
+🏥 Full Stack Engineer @ ELEGANT (Elithair) — building high-traffic Hospital ERP systems for Elit Hair & Elit Klinik
 
-Feel free to explore my repositories or reach out for collaboration!
+🎓 Kırklareli University — B.Sc. in Software Engineering, 2024 (GPA: 3.53 / 4.00)
+
+💡 Core stack: TypeScript · Node.js · NestJS · React · Next.js
+
+⚙️ Also building with: .NET (C#) · Java Spring Boot · Vue.js
+
+🛒 E-commerce integrations — REST · GraphQL · SOAP APIs, plus React Native mobile apps
+
+🔬 TÜBİTAK-supported projects & entrepreneurship ventures
+
+🗄️ Databases: MongoDB · PostgreSQL · MySQL · MSSQL · Elasticsearch
+
+📍 İstanbul, Türkiye
+
+💬 Feel free to explore my repositories or reach out for collaboration!
 
 <p>
   <a href="https://www.linkedin.com/in/harun-%C3%B6zdemir-45099b258/">
@@ -45,12 +51,18 @@ Feel free to explore my repositories or reach out for collaboration!
 
 <br clear="right" />
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="" />
+
 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,redux,tailwind,nodejs,nestjs,express,graphql,prisma&perline=12" alt="Frontend & Backend" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,cs,dotnet,java,spring,elasticsearch,aws,docker,git,bitbucket&perline=12" alt="Databases & DevOps" />
-</p>
+<div align="center">
+
+	
+💻 Languages	<img src="https://skillicons.dev/icons?i=ts,js,java,cs" height="42" alt="Languages" />
+🎨 Frontend	<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css" height="42" alt="Frontend" />
+⚙️ Backend	<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,dotnet,graphql,prisma" height="42" alt="Backend" />
+🗄️ Databases	<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,elasticsearch" height="42" alt="Databases" />
+☁️ DevOps & Tools	<img src="https://skillicons.dev/icons?i=aws,docker,git,bitbucket,postman" height="42" alt="DevOps and tools" />
+	</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer" width="100%" />
