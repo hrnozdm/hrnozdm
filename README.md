@@ -34,7 +34,7 @@ I'm a Full Stack Engineer specializing in building scalable backend architecture
 
 🔬 TÜBİTAK-supported projects & entrepreneurship ventures
 
-🗄️ Databases: MongoDB · PostgreSQL · MySQL · MSSQL · Elasticsearch
+🗄️ Databases: MongoDB · PostgreSQL · MySQL · MSSQL · Redis · Elasticsearch
 
 📍 İstanbul, Türkiye
 
@@ -54,7 +54,7 @@ I'm a Full Stack Engineer specializing in building scalable backend architecture
 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,react,nextjs,vue,redux,tailwind,html,css,nodejs,nestjs,express,spring,dotnet,graphql,prisma,mongodb,postgres,mysql,elasticsearch,aws,docker,git,bitbucket,postman&perline=9" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,react,nextjs,vue,redux,tailwind,html,css,nodejs,nestjs,express,spring,dotnet,graphql,prisma,mongodb,postgres,mysql,redis,elasticsearch,aws,docker,git,bitbucket,postman&perline=7" alt="Tech stack" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer" width="100%" />
