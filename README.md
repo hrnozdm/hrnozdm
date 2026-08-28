@@ -14,11 +14,13 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="420" alt="Coding animation" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="" />
 
 🚀 About Me
-
-<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="340" alt="Coding animation" />
 
 I'm a Full Stack Engineer specializing in building scalable backend architectures, microservices and modern web applications.
 
@@ -26,9 +28,7 @@ I'm a Full Stack Engineer specializing in building scalable backend architecture
 
 🎓 Kırklareli University — B.Sc. in Software Engineering, 2024 (GPA: 3.53 / 4.00)
 
-💡 Core stack: TypeScript · Node.js · NestJS · React · Next.js
-
-⚙️ Also building with: .NET (C#) · Java Spring Boot · Vue.js
+💡 Tech I work with: TypeScript · Node.js · NestJS · React · Next.js · .NET (C#) · Spring Boot · Vue.js
 
 🛒 E-commerce integrations — REST · GraphQL · SOAP APIs, plus React Native mobile apps
 
@@ -40,7 +40,7 @@ I'm a Full Stack Engineer specializing in building scalable backend architecture
 
 💬 Feel free to explore my repositories or reach out for collaboration!
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/harun-%C3%B6zdemir-45099b258/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white" alt="LinkedIn" />
   </a>
@@ -49,20 +49,12 @@ I'm a Full Stack Engineer specializing in building scalable backend architecture
   </a>
 </p>
 
-<br clear="right" />
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="" />
 
 🛠️ Tech Stack
 
-<div align="center">
-
-	
-💻 Languages	<img src="https://skillicons.dev/icons?i=ts,js,java,cs" height="42" alt="Languages" />
-🎨 Frontend	<img src="https://skillicons.dev/icons?i=react,nextjs,vue,redux,tailwind,html,css" height="42" alt="Frontend" />
-⚙️ Backend	<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,spring,dotnet,graphql,prisma" height="42" alt="Backend" />
-🗄️ Databases	<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,elasticsearch" height="42" alt="Databases" />
-☁️ DevOps & Tools	<img src="https://skillicons.dev/icons?i=aws,docker,git,bitbucket,postman" height="42" alt="DevOps and tools" />
-	</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,java,cs,react,nextjs,vue,redux,tailwind,html,css,nodejs,nestjs,express,spring,dotnet,graphql,prisma,mongodb,postgres,mysql,elasticsearch,aws,docker,git,bitbucket,postman&perline=9" alt="Tech stack" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer" width="100%" />
