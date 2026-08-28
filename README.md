@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/hrnozdm">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;TypeScript+%7C+React+%7C+Node.js;NestJS+%7C+GraphQL+%7C+MongoDB+%7C+PostgreSQL" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&center=true&vCenter=true&width=520&lines=Full+Stack+Engineer;TypeScript+%7C+React+%7C+Node.js;NestJS+%7C+GraphQL+%7C+MongoDB+%7C+PostgreSQL;Building+ERP+%26+E-commerce+Systems" alt="Typing SVG" />
   </a>
 </p>
 
@@ -14,71 +14,43 @@
   </a>
 </p>
 
-🧑‍💻 About Me
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="3" alt="" />
 
-🚀 Full Stack Engineer building end-to-end web applications
-💻 Daily drivers: TypeScript, React, Node.js, NestJS, MongoDB, PostgreSQL
-🌱 Also shipped projects with Vue, .NET, Spring Boot and Django
+👋 Hi, I'm Harun!
+
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="350" alt="Coding animation" />
+
+> "Talk is cheap. Show me the code." — Linus Torvalds
+
+I'm a Full Stack Engineer specializing in building scalable backend architectures, microservices and modern web applications.
+
+🏥 Currently working as a Full Stack Engineer at ELEGANT (Elithair), building high-traffic Hospital ERP systems for Elit Hair & Elit Klinik
+🎓 Graduated from Kırklareli University with a degree in Software Engineering (2024)
+💡 I specialize in TypeScript, Node.js, NestJS and React ecosystems, focusing on clean architecture and best practices
+🛒 Developed e-commerce integrations and REST / GraphQL / SOAP APIs, plus mobile apps with React Native
+🔬 Took part in TÜBİTAK-supported projects and entrepreneurship ventures
+🗄️ Experienced in database management with MongoDB, PostgreSQL, MySQL and MSSQL
 📍 Based in İstanbul, Türkiye
 
+Feel free to explore my repositories or reach out for collaboration!
+
 <p>
-  <a href="https://www.linkedin.com/in/LINKEDIN-KULLANICI-ADIN">
+  <a href="https://www.linkedin.com/in/harun-%C3%B6zdemir-45099b258/">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white" alt="LinkedIn" />
   </a>
-  <a href="mailto:MAIL-ADRESIN">
-    <img src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
+  <a href="mailto:harunozdemir739@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </p>
+
+<br clear="right" />
 
 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,redux,vue,tailwind,nodejs,nestjs,express,graphql,prisma&perline=11" alt="Frontend & Backend" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vue,redux,tailwind,nodejs,nestjs,express,graphql,prisma&perline=12" alt="Frontend & Backend" />
   <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,cs,dotnet,java,spring,python,django,aws,docker,git&perline=12" alt="Databases & Others" />
-</p>
-
-📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hrnozdm&theme=github_dark" width="95%" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrnozdm&theme=github_dark" height="180" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrnozdm&theme=github_dark" height="180" alt="Repos per language" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hrnozdm&theme=github_dark" height="180" alt="Most commit language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrnozdm&theme=github_dark&utcOffset=3" height="180" alt="Productive time" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hrnozdm&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/2C5364/hrnozdm" width="95%" alt="Contribution chart" />
-</p>
-
-📌 Featured Projects
-
-<p align="center">
-  <a href="https://github.com/hrnozdm/DiscortCloneProject">
-    <img src="https://socialify.git.ci/hrnozdm/DiscortCloneProject/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" width="48%" alt="Discord Clone" />
-  </a>
-  <a href="https://github.com/hrnozdm/Pos">
-    <img src="https://socialify.git.ci/hrnozdm/Pos/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" width="48%" alt="Pos" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/hrnozdm/OnlineFoodProject">
-    <img src="https://socialify.git.ci/hrnozdm/OnlineFoodProject/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" width="48%" alt="Online Food" />
-  </a>
-  <a href="https://github.com/hrnozdm/EmlakApp">
-    <img src="https://socialify.git.ci/hrnozdm/EmlakApp/image?description=1&font=Inter&language=1&name=1&owner=1&pattern=Plus&stargazers=1&theme=Dark" width="48%" alt="Emlak App" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,cs,dotnet,java,spring,elasticsearch,aws,docker,git,bitbucket&perline=12" alt="Databases & DevOps" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=130&section=footer" width="100%" />
